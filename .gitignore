@@ -1,0 +1,24 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.bak
+
+# Obsidian
+.obsidian/
+.trash/
+
+# Canvas — 本地工作用,等重画后单独处理
+0-0 整体框架.canvas
